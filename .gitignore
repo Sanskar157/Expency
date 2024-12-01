@@ -1,0 +1,23 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.sqlite3
+
+# Django
+.env
+db.sqlite3
+/media/
+staticfiles/
+
+# Node/React
+node_modules/
+build/
+
+# Logs and temporary files
+*.log
+*.pot
+*.pyc
+.DS_Store
+.idea/
+.vscode/
